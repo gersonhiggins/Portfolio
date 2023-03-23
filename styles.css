@@ -417,24 +417,7 @@ body {
         border-color: #091E42;
         background-color: #396DF2;
     }
-    .flecha1 {
-        position: relative;
-        color: #6B778C;
-        top: 202px;
-    }
-    .flecha2 {
-        position: relative;
-        color: #6B778C;
-        top: 402px;
-    }
-    .flecha3 {
-        position: relative;
-        color: #6B778C;
-        top: 202px;
-    }
-    .languajes:hover .flecha1 {
-        transform: rotate(45deg);
-    }
+
 }
 
 @media only screen and (max-width: 375px){
